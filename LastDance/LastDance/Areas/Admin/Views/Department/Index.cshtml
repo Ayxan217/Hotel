@@ -1,0 +1,39 @@
+﻿@model List<GetDepartmentAdminVM>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Basic Table</h4>
+                        <p class="card-description">
+                            Add class <code>.table</code>
+                        </p>
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Count</th>
+                                    
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                @foreach(var item in Model){
+                                        <tr>
+                                            <td>@item.Name</td>
+                                            <td>@item.EmployeeCount</td>
+                                            
+                                            
+                                        </tr>
+                                }
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
