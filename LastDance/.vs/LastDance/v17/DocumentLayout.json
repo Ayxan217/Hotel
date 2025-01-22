@@ -3,52 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\utils\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\utils\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\viewmodels\\employee\\createemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\viewmodels\\employee\\getemployeeadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\viewmodels\\employee\\getemployeeadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\utils\\enums\\sizeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\utils\\enums\\sizeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\viewmodels\\employee\\updateemployeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\utils\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\utils\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\hotel\\lastdance\\lastdance\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{83CE923F-1D3B-4FEB-B2E0-B24B6975802C}|LastDance\\LastDance.csproj|solutionrelative:lastdance\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,154 +78,212 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "LastDance\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T09:49:09.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "LastDance\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Models\\Employee.cs",
-              "RelativeToolTip": "LastDance\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T09:06:36.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "LastDance\\Areas\\Admin\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T08:53:51.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetEmployeeAdminVM.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\ViewModels\\Employee\\GetEmployeeAdminVM.cs",
-              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\ViewModels\\Employee\\GetEmployeeAdminVM.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\ViewModels\\Employee\\GetEmployeeAdminVM.cs",
-              "RelativeToolTip": "LastDance\\Areas\\Admin\\ViewModels\\Employee\\GetEmployeeAdminVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T08:47:46.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "LastDance\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T08:47:43.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateEmployeeVM.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
-              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
-              "RelativeToolTip": "LastDance\\Areas\\Admin\\ViewModels\\Employee\\CreateEmployeeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T08:43:10.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FileValidator.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Utils\\FileValidator.cs",
               "RelativeDocumentMoniker": "LastDance\\Utils\\FileValidator.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Utils\\FileValidator.cs",
               "RelativeToolTip": "LastDance\\Utils\\FileValidator.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAADwvxMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAywC0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T08:20:54.598Z",
+              "WhenOpened": "2025-01-20T08:59:37.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SizeEnum.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Utils\\Enums\\SizeEnum.cs",
-              "RelativeDocumentMoniker": "LastDance\\Utils\\Enums\\SizeEnum.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Utils\\Enums\\SizeEnum.cs",
-              "RelativeToolTip": "LastDance\\Utils\\Enums\\SizeEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LastDance\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LastDance\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wBYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T08:18:21.333Z"
+              "WhenOpened": "2025-01-19T08:36:43.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "LastDance\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwE0AAAAQAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "LastDance\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "LastDance\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T08:13:52.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T08:36:06.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "LastDance\\Areas\\Admin\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T08:13:45.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "LastDance\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T08:13:06.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "LastDance\\Areas\\Admin\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-18T08:12:56.451Z"
+              "WhenOpened": "2025-01-18T18:02:01.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "LastDance\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T17:37:06.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateEmployeeVM.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "RelativeToolTip": "LastDance\\Areas\\Admin\\ViewModels\\Employee\\UpdateEmployeeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:16:04.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "LastDance\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAywLAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T17:07:38.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LastDance\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LastDance\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKEBAAAAAAAAAAAywLABAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T16:15:04.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LastDance\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T16:10:39.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "LastDance\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "LastDance\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:43:38.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LastDance\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:59:00.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LastDance\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LastDance\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:42:37.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LastDance\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:42:32.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LastDance\\Areas\\Admin\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T14:36:11.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Utils\\Enums\\UserRoles.cs",
+              "RelativeDocumentMoniker": "LastDance\\Utils\\Enums\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Utils\\Enums\\UserRoles.cs",
+              "RelativeToolTip": "LastDance\\Utils\\Enums\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T14:11:21.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LastDance\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LastDance\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:54:06.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "LastDance\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\Hotel\\LastDance\\LastDance\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "LastDance\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:43:28.923Z"
             }
           ]
         }

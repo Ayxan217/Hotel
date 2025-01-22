@@ -4,7 +4,7 @@ namespace LastDance.Utils
 {
     public static class FileValidator
     {
-        public static string BuildPath(string fileName, params string[] roots)
+        public static string BuildPath(this string fileName, params string[] roots)
         {
             string path = string.Empty;
             for (int i = 0; i < roots.Length; i++)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LastDance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+104d28998d82eaf9428b0615a2b9a222b2a00820")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e83e980fcec30dafe597497d7d50a06d1496fb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LastDance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LastDance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
